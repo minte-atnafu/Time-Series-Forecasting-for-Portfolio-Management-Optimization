@@ -66,3 +66,4 @@ for ticker in tickers:
     var_95 = np.percentile(df['Daily Return'].dropna(), 5)
     sharpe = (df['Daily Return'].mean() * 252) / (df['Daily Return'].std() * np.sqrt(252))
     print(f"\n{ticker} 95% VaR: {var_95:.4f}, Sharpe Ratio: {sharpe:.4f}")
+
