@@ -98,7 +98,7 @@ df = fetch_data(tickers=['TSLA', 'BND', 'SPY'],
 - PyPortfolioOpt, matplotlib
 
 ## Contributors
-- [Your Name] - Lead Financial Analyst
+- Mintesinot Atnafu - Lead Financial Analyst
 - GMF Investments Quantitative Team
 
 ## License
